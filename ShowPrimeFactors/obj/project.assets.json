@@ -1,0 +1,86 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PrimeFactoringLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/PrimeFactoringLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PrimeFactoringLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrimeFactoringLib/1.0.0": {
+      "type": "project",
+      "path": "../PrimeFactoringLib/PrimeFactoringLib.csproj",
+      "msbuildProject": "../PrimeFactoringLib/PrimeFactoringLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "PrimeFactoringLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/drawbridge/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/drawbridge/Documents/csharp/csharp-book/Chapter04/Praticing/ShowPrimes/ShowPrimes.csproj",
+      "projectName": "ShowPrimes",
+      "projectPath": "/home/drawbridge/Documents/csharp/csharp-book/Chapter04/Praticing/ShowPrimes/ShowPrimes.csproj",
+      "packagesPath": "/home/drawbridge/.nuget/packages/",
+      "outputPath": "/home/drawbridge/Documents/csharp/csharp-book/Chapter04/Praticing/ShowPrimes/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/drawbridge/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "/home/drawbridge/Documents/csharp/csharp-book/Chapter04/Praticing/PrimeFactoringLib/PrimeFactoringLib.csproj": {
+              "projectPath": "/home/drawbridge/Documents/csharp/csharp-book/Chapter04/Praticing/PrimeFactoringLib/PrimeFactoringLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/home/drawbridge/dotnet-3.1/sdk/3.1.301/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
