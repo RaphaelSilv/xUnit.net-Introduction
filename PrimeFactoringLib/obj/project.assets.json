@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/drawbridge/Documents/csharp/csharp-book/Chapter04/Praticing/PrimeFactoringLib/PrimeFactoringLib.csproj",
+      "projectUniqueName": "/home/drawbridge/Documents/csharp/xUnit-Test/PrimeFactoringLib/PrimeFactoringLib.csproj",
       "projectName": "PrimeFactoringLib",
-      "projectPath": "/home/drawbridge/Documents/csharp/csharp-book/Chapter04/Praticing/PrimeFactoringLib/PrimeFactoringLib.csproj",
+      "projectPath": "/home/drawbridge/Documents/csharp/xUnit-Test/PrimeFactoringLib/PrimeFactoringLib.csproj",
       "packagesPath": "/home/drawbridge/.nuget/packages/",
-      "outputPath": "/home/drawbridge/Documents/csharp/csharp-book/Chapter04/Praticing/PrimeFactoringLib/obj/",
+      "outputPath": "/home/drawbridge/Documents/csharp/xUnit-Test/PrimeFactoringLib/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/drawbridge/.nuget/NuGet/NuGet.Config"
