@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zCtLOU3EG1iZGnhibv5HR31dnmnn3piz7fRsjBOM1n5qV8SDc9dO3GAWI+RjBctJNvMC4RL6WdFsAyAy8cuP7g==",
+  "success": true,
+  "projectFilePath": "/home/drawbridge/Documents/csharp/csharp-book/Chapter04/Praticing/PrimeFactoringLib/PrimeFactoringLib.csproj",
+  "expectedPackageFiles": [
+    "/home/drawbridge/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/drawbridge/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+/home/drawbridge/Documents/csharp/csharp-book/Chapter04/Praticing/PrimeFactoringLib/bin/Debug/netstandard2.0/PrimeFactoringLib.deps.json
+/home/drawbridge/Documents/csharp/csharp-book/Chapter04/Praticing/PrimeFactoringLib/bin/Debug/netstandard2.0/PrimeFactoringLib.dll
+/home/drawbridge/Documents/csharp/csharp-book/Chapter04/Praticing/PrimeFactoringLib/bin/Debug/netstandard2.0/PrimeFactoringLib.pdb
+/home/drawbridge/Documents/csharp/csharp-book/Chapter04/Praticing/PrimeFactoringLib/obj/Debug/netstandard2.0/PrimeFactoringLib.csprojAssemblyReference.cache
+/home/drawbridge/Documents/csharp/csharp-book/Chapter04/Praticing/PrimeFactoringLib/obj/Debug/netstandard2.0/PrimeFactoringLib.AssemblyInfoInputs.cache
+/home/drawbridge/Documents/csharp/csharp-book/Chapter04/Praticing/PrimeFactoringLib/obj/Debug/netstandard2.0/PrimeFactoringLib.AssemblyInfo.cs
+/home/drawbridge/Documents/csharp/csharp-book/Chapter04/Praticing/PrimeFactoringLib/obj/Debug/netstandard2.0/PrimeFactoringLib.csproj.CoreCompileInputs.cache
+/home/drawbridge/Documents/csharp/csharp-book/Chapter04/Praticing/PrimeFactoringLib/obj/Debug/netstandard2.0/PrimeFactoringLib.dll
+/home/drawbridge/Documents/csharp/csharp-book/Chapter04/Praticing/PrimeFactoringLib/obj/Debug/netstandard2.0/PrimeFactoringLib.pdb

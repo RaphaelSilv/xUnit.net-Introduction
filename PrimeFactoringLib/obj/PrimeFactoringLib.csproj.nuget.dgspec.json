@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/drawbridge/Documents/csharp/csharp-book/Chapter04/Praticing/PrimeFactoringLib/PrimeFactoringLib.csproj": {}
+  },
+  "projects": {
+    "/home/drawbridge/Documents/csharp/csharp-book/Chapter04/Praticing/PrimeFactoringLib/PrimeFactoringLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/drawbridge/Documents/csharp/csharp-book/Chapter04/Praticing/PrimeFactoringLib/PrimeFactoringLib.csproj",
+        "projectName": "PrimeFactoringLib",
+        "projectPath": "/home/drawbridge/Documents/csharp/csharp-book/Chapter04/Praticing/PrimeFactoringLib/PrimeFactoringLib.csproj",
+        "packagesPath": "/home/drawbridge/.nuget/packages/",
+        "outputPath": "/home/drawbridge/Documents/csharp/csharp-book/Chapter04/Praticing/PrimeFactoringLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/drawbridge/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/home/drawbridge/dotnet-3.1/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
