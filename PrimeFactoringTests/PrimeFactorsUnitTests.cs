@@ -46,7 +46,7 @@ namespace PrimeFactoringTests
         [Fact]
         public void Test3()
         {
-                       // Arrange
+            // Arrange
             var originalNumber = 4;
             var expetctedPrimeFactors = new List<int>(){2, 2};
             var primeFacLib = new PrimeFactoring();
